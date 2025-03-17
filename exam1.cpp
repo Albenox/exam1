@@ -3,7 +3,7 @@
     Programmer: Gabriel Inocentes
     Date: March 16, 2025
     Requirements:
-    Create a program that asks the user to the weight and distance a package will be traveling, then calculates the shipping charges, displaying them at the end
+    Create a program that asks the user to input a monthly sales amount and advanced pay, before outputting their earnings from commission and what they owe from the advanced pay
 */
 
 #include <iostream>
